@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: rodionov133
- * Date: 16.08.2018
- * Time: 11:27
- */
 
 namespace REB\Grain;
 
