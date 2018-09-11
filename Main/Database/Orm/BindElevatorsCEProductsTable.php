@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Shatalov980
- * Date: 23.08.2018
- * Time: 19:21
- */
+
 
 namespace REB\Main\Database\Orm;
 
